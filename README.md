@@ -1,5 +1,7 @@
 The complete-tssm-script.py is only modeling the seed fractal and then many systems out. All is nested torus fractals creating perfectly harmonic dimensions. - Theory of Everything. (Coming Soon)
 
+More work on @dcharb10 on x.com.
+
 The Toroidal-Vortex Harmonic Model (TVHM): A Crystalline Harmonic Fractal Structure 
 Abstract
 This paper proposes the Toroidal-Vortex Harmonic Model (TVHM), a theoretical integration of the Toroidal Structure Source Split Model (TSSM) and the Chromosomal Prime Helix Model (CPHM). The TVHM envisions a 13-dimensional crystalline system, with 12 dimensions of fractal growth emerging from a toroidal boundary, shaped by a counter-spinning double helix and energy vortices. Tesla’s 3-6-9 framework drives the cyclic and fractal structure, with prime numbers as resonant nodes within a harmonic lattice inspired by the Flower of Life. Guided by a 60-cycle periodicity, golden ratio (φ = 1.618034) scaling, and Fibonacci sequences, the model explores a multidimensional resonance system, emphasizing crystalline symmetry and 3-6-9 cycles as its harmonic core.
